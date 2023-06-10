@@ -21,23 +21,8 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Undefined",Show TV (720p) [Not 24/7]
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Undefined",Star TV (720p) [Not 24/7]
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8 (1080p) [Not 24/7]
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Series",Fox Türkiye (720p)
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="HABERLER",A HABER
 http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HABERTURK" tvg-logo="" group-title="HABERLER",HABERTURK
-https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="HABERLER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
@@ -48,63 +33,5 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO" tvg-logo="" group-title="ÇOCUK",MİNİKA GO
-http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK" tvg-logo="" group-title="ÇOCUK",TRT ÇOCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LİVECAMS" tvg-logo="" group-title="+18",LİVECAMS
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MİLF" tvg-logo="" group-title="+18",MİLF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BİG DİCK" tvg-logo="" group-title="+18",BİG DİCK
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BİG TİTS" tvg-logo="" group-title="+18",BİG TİTS
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FETİSH" tvg-logo="" group-title="+18",FETİSH
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PORN STARS" tvg-logo="" group-title="+18",PORNSTARS
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BİG ASS" tvg-logo="" group-title="+18",BİG ASS
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İNTERRACİAL" tvg-logo="" group-title="+18",İNTERRACİAL
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LATİN" tvg-logo="" group-title="+18",LATİN
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POV" tvg-logo="" group-title="+18",POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLOWJOB" tvg-logo="" group-title="+18",BLOWJOB
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEEN" tvg-logo="" group-title="+18",TEEN
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HARD CORE" tvg-logo="" group-title="+18",HARD CORE
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUCKOLD" tvg-logo="" group-title="+18",CUCKOLD
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THREESOME" tvg-logo="" group-title="+18",THREESOME
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSSİAN" tvg-logo="" group-title="+18",RUSSİAN
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LESBİAN" tvg-logo="" group-title="+18",LESBİAN
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROUGH" tvg-logo="" group-title="+18",ROUGH
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GANGBANG" tvg-logo="" group-title="+18",GANGBANG
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANAL" tvg-logo="" group-title="+18",ANAL
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMPİLATİON" tvg-logo="" group-title="+18",COMPİLATİON
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRUNETTE" tvg-logo="" group-title="+18",BRUNETTE
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLONDE" tvg-logo="" group-title="+18",BLONDE
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAY" tvg-logo="" group-title="+18",GAY
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASİAN" tvg-logo="" group-title="+18",ASİAN
-http://cdn.adultiptv.net/asian.m3u8
