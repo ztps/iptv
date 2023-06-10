@@ -1,25 +1,23 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="Kids",TRT Cocuk
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Undefined",Kanal D (1080p)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",NTV
-https://dogus-live.daioncdn.net/ntv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Undefined",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (720p)
-https://trt1.persona.video/master.m3u8?hls=1&checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="HABERLER",A HABER
 http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
@@ -30,8 +28,9 @@ https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="News",CNN Türk (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="Kids",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK" tvg-logo="" group-title="ÇOCUK",TRT ÇOCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
