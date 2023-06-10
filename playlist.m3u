@@ -1,53 +1,57 @@
 #EXTM3U
+
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="Kids",TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Undefined",Kanal D (1080p)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",NTV
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" group-title="Undefined",Show Türk
-https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",SHOW TURK HD
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Undefined",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (720p)
 https://trt1.persona.video/master.m3u8?hls=1&checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ULUSAL",FOX
-https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="" group-title="ULUSAL",SHOW TV
-https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="ULUSAL",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="ULUSAL",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="" group-title="ULUSAL",STAR
-https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="HABERLER",A HABER
 http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="" group-title="HABERLER",CNN TURK
 https://cnnturk.blutv.com/blutv_cnnturk_live/live_720p2000000kbps/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HABERTURK" tvg-logo="" group-title="HABERLER",HABERTURK
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="HABERLER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="@@@ ÇOCUK @@@" tvg-logo="" group-title="ÇOCUK",@@@ ÇOCUK @@@
-https://sshyzhe.github.io/vod.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="ÇOCUK",CARTOON NETWORK
-http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO" tvg-logo="" group-title="ÇOCUK",MİNİKA GO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK" tvg-logo="" group-title="ÇOCUK",TRT ÇOCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="@@@ +18 @@@" tvg-logo="" group-title="+18",@@@ +18 @@@
-https://sshyzhe.github.io/vod.m3u
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="LİVECAMS" tvg-logo="" group-title="+18",LİVECAMS
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİLF" tvg-logo="" group-title="+18",MİLF
